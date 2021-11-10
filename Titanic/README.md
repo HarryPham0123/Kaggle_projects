@@ -16,7 +16,7 @@
   - One-hot Encoding the categorical features
  
 **4. Modeling**
-  - Some ML regression models: KNN (K-nearest neighbor), SVC (Support vector classifier), random forest, Logistic Regression
+  - Some ML binary classification models: KNN (K-nearest neighbor), SVC (Support vector classifier), random forest, Logistic Regression
   - K-fold Cross validation
   - Hyper parameters tuning
   - Confusing matrix
